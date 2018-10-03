@@ -1,0 +1,225 @@
+/* correct header */
+
+header {
+	background: #7a2e40;
+	height: 39px;
+}
+
+header div {
+	height: 39px;
+	margin: 0 auto;
+	width: 700px;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+	padding: 0 1px;
+}
+
+nav {
+	float: right;
+	padding-right: 8px;
+}
+
+header nav li a {
+	text-decoration: none;
+	font-family: Arial 12px;
+	color: #f6dde3;
+	display: block;
+	height: 12px;
+	text-align: center;
+	line-height: 35px;
+}
+
+/* under header (grey perexod) */
+
+.shape {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -250px;
+  top: 37px;
+  width: 160%;
+  height: 33px;
+  z-index: 23;
+}
+
+/* correct main-left and main-right */
+
+.container {
+	margin: 0 auto;
+	width: 700px;
+	padding-top: 31px;
+}
+
+.container_left {
+	width: 442px;
+	float: left;
+}
+
+footer {
+	background: #f9f9f9;
+	font: 12px Arial;
+	color: #2a3845;
+}
+
+.container_right {
+	width: 205px;
+	float: right;
+}
+
+.under_logotype {
+	width: 442px;
+	height: 257px;
+	background: #f9f9f9;
+	border: #f0e9eb 1px solid;
+	padding: 20px 27px 27px 15px;
+	box-sizing: border-box;
+}
+
+.under_logotype h1 {
+	font: 14px Arial;
+	font-weight:bold;
+	color: #7a2e40;
+}
+
+.under_logotype p {
+	font: 12px Arial;
+	color: #2a3845;
+	padding-top: 14px;
+	line-height: 16px;
+}
+
+.under_logotype ul {
+	font: 12px Arial;
+	color: #fe7b9a;
+	list-style-type: square;
+	margin-left: 20px;
+	padding-top: 15px;
+	line-height: 16px;
+}
+
+.under_logotype ul li span {
+	color: #2a3845;
+	padding-left: 5px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.logo {
+	float: left;
+	padding: 10px;
+}
+
+.two_under_logotype {
+	width: 442px;
+	height: 315px;
+	box-sizing: border-box;
+}
+
+.line-horizont {
+	padding: 15px 0;
+}
+
+.dog {
+	float: left;
+	border: #f3eeee 1px solid;
+	padding: 5px 5px 5px 5px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+.two_under_logotype h1 {
+	font: 14px Arial;
+	font-weight:bold;
+	color: #7a2e40;
+	padding-top: 25px;
+}
+
+.two_under_logotype p{
+	font: 12px Arial;
+	color: #2a3845;
+	line-height: 18px;
+}
+
+.logo {
+	padding-bottom: 43px;
+	margin-right: 10px;
+}
+
+.right_first h1 {
+	font: 13px Arial;
+	font-weight:bold;
+	color: #7a2e40;
+}
+
+.right_first p {
+	font: 12px Arial;
+	color: #2a3845;
+	padding-top: 14px;
+	line-height: 16px;
+	padding-bottom: 20px;
+}
+
+.last_bc {
+	background-color: #f7f7f7;
+	padding-left: 15px;
+	padding: 15px;
+	box-sizing: border-box;
+	height: 144px;
+	width: 205px;
+	margin-top: 15px;
+	border: #efe9e9 1px solid;
+
+}
+
+.second_first h1 {
+	font: 13px Arial;
+	font-weight:bold;
+	color: #7a2e40;
+}
+
+.second_first ul {
+	font: 12px Arial;
+	color: #a43b55;
+	text-decoration: underline;
+	list-style-image: url(../img/paws_line.png);
+	padding-left: 30px;
+}
+
+.second_first li {
+	margin-bottom: 7px;
+}
+
+footer div p a {
+	color: #a43b55;
+}
+
+footer div {
+	height: 57px;
+	margin: 0 auto;
+	width: 700px;
+	border-top: #f0e9eb 1px solid;
+}
+
+footer div p {
+	margin: 14px 0 0 0;
+	line-height: 17px;
+}
+
+main h1 span {
+	color: #7a2e40;
+}
+
+.type {
+	color: #fa7393;
+}
+
+main div p {
+	color: #818282;
+	font: 12px Arial;
+}
